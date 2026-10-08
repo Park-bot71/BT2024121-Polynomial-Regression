@@ -29,7 +29,3 @@ python train_and_predict.py --data-dir data --output-dir outputs
 ```
 
 The prediction files will be written to `outputs/` with a single column named `y`.
-
-## Report
-
-Before submission, add the actual GitHub repository URL to the provided PDF report.
